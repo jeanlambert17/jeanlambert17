@@ -55,7 +55,7 @@ I'm a Senior Software Engineer and Web3 Engineer.
   <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
 </p>
 
-## Connect With Me
+## Connect with me
 
 <p align="center">
   <a href="https://discord.com/users/jeanlambertdev" target="_blank">
