@@ -11,7 +11,7 @@ I'm a Senior Software Engineer and Web3 Engineer.
 - 📱 Build cross-platform mobile apps with React Native and Flutter.
 - 🛠️ Craft intuitive user-friendly UIs.
 
-## Web3 Stack
+## Web3
 
 <p align="center">
   <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white" alt="Ethereum" />
@@ -21,7 +21,7 @@ I'm a Senior Software Engineer and Web3 Engineer.
   <img src="https://img.shields.io/badge/zkSync-1E69FF?style=for-the-badge&logo=zksync&logoColor=white" alt="zkSync" />
 </p>
 
-## Frontend Stack
+## Frontend
 
 <p align="center">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
@@ -35,7 +35,7 @@ I'm a Senior Software Engineer and Web3 Engineer.
   <img src="https://img.shields.io/badge/React_Query-FF4154?style=for-the-badge&logo=react-query&logoColor=white" alt="React Query" />
 </p>
 
-## Mobile Development
+## Mobile
 
 <p align="center">
   <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" alt="Expo" />
